@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         BrickLink Inventory View
 // @namespace    http://mbz.nu/tampermonkey/bricklink-inventory-view
-// @version      1.1
+// @version      1.2
 // @description  Changes the behaviour of the inventory page
 // @author       Matts Baaz
 // @match        http://www.bricklink.com/inventory_detail.asp*
 // @match        https://www.bricklink.com/inventory_detail.asp*
-// @updateURL    https://www.dropbox.com/s/smg9scku4lbhs2k/BrickLink%20Inventory%20View.user.js?dl=1
-// @downloadURL  https://www.dropbox.com/s/smg9scku4lbhs2k/BrickLink%20Inventory%20View.user.js?dl=1
+// @updateURL    https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/BrickLink%20Inventory%20View.js
+// @downloadURL  https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/BrickLink%20Inventory%20View.js
 // @grant        none
 
 // @require http://code.jquery.com/jquery-latest.js

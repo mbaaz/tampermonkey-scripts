@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Visma e-Accounting fixer
 // @namespace    http://mbz.nu/tampermonkey/visma
-// @version      1.1
+// @version      1.2
 // @description  Fixes small things that bugger me
 // @author       Matts Baaz
 // @match        https://eaccounting.vismaonline.com/*
-// @updateURL    https://www.dropbox.com/s/aa0gyi7svz5ryc2/Visma%20e-Accounting%20fixer.user.js?dl=1
-// @downloadURL  https://www.dropbox.com/s/aa0gyi7svz5ryc2/Visma%20e-Accounting%20fixer.user.js?dl=1
+// @updateURL    https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/Visma%20e-Accounting%20fixer.js
+// @downloadURL  https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/Visma%20e-Accounting%20fixer.js
 // @grant        none
 
 // ==/UserScript==

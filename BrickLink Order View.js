@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         BrickLink Order View
 // @namespace    http://mbz.nu/tampermonkey/bricklink-order-view
-// @version      1.3
+// @version      1.4
 // @description  This will rearrange the page to look like I want it to
 // @author       Matts Baaz
 // @match        http://www.bricklink.com/orderDetail.asp?ID=*&viewGB=N
 // @match        https://www.bricklink.com/orderDetail.asp?ID=*&viewGB=N
-// @updateURL    https://www.dropbox.com/s/oa8wc7ryhq2nfpl/BrickLink%20Order%20View.user.js?dl=1
-// @downloadURL  https://www.dropbox.com/s/oa8wc7ryhq2nfpl/BrickLink%20Order%20View.user.js?dl=1
+// @updateURL    https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/BrickLink%20Order%20View.js
+// @downloadURL  https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/BrickLink%20Order%20View.js
 // @grant        none
 
 // @require http://code.jquery.com/jquery-latest.js

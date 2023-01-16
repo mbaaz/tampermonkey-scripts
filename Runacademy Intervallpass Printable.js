@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Runacademy Intervallpass Printable
 // @namespace    http://mbz.nu/tampermonkey/runacademy-intervall-printable
-// @version      1.0
+// @version      1.1
 // @description  This will remove some (to me) unnecessary markup that spoils the printing experience
 // @author       Matts Baaz
 // @match        https://runacademy.se/*
+// @updateURL    https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/Runacademy%20Intervallpass%20Printable.js
+// @downloadURL  https://raw.githubusercontent.com/mbaaz/tampermonkey-scripts/main/Runacademy%20Intervallpass%20Printable.js
 // @grant        none
 // ==/UserScript==
 'use strict';
