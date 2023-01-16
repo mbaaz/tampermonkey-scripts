@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BrickLink Inventory View
 // @namespace    http://mbz.nu/tampermonkey/bricklink-inventory-view
-// @version      1.1
+// @version      1.2
 // @description  Changes the behaviour of the inventory page
 // @author       Matts Baaz
 // @match        http://www.bricklink.com/inventory_detail.asp*
